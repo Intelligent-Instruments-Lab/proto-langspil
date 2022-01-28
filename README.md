@@ -4,7 +4,7 @@
 
 – https://en.wikipedia.org/wiki/Langspil
 
-This is the [Intelligent Instrument Lab](http://iil.is)'s _proto-langspil_ for experimenting with intelligent systems.
+This is the [Intelligent Instrument Lab](http://iil.is)'s _proto-langspil_ for experimenting with intelligent systems and embedded AI.
 
 ![proto-langspil](https://assets.pubpub.org/b8ci3mep/51643054069968.jpg)
 
