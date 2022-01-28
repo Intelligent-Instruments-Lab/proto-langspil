@@ -12,7 +12,8 @@ This is the [Intelligent Instrument Lab](http://iil.is)'s _proto-langspil_ for e
 
 - Fusion 360 file for full 3D assembly
 - 2D geometry file for laser cutting the body (.DXF)
-- Bill of Materials (BoM) for electrical, electronic and mechanical parts
+- Parts list
+- Build tips and hints
 
 ## `supercollider/`
 
