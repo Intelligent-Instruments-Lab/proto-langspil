@@ -1,6 +1,10 @@
 # proto-langspil
 
-The langspil is an Icelandic folk instrument. This is the [Intelligent Instrument Lab](http://iil.is)'s _proto-langspil_ for experimenting with intelligent systems.
+> The langspil is a traditional Icelandic drone zither. It has a single melody string and usually 2 drone strings.
+
+– https://en.wikipedia.org/wiki/Langspil
+
+This is the [Intelligent Instrument Lab](http://iil.is)'s _proto-langspil_ for experimenting with intelligent systems.
 
 ![proto-langspil](https://assets.pubpub.org/b8ci3mep/51643054069968.jpg)
 
