@@ -1,7 +1,7 @@
 # proto-langspil build tips and hints
 
 ## Laser cut birch, laserply parts
-![2D](https://github.com/Intelligent-Instruments-Lab/proto-langspil/hardware/assets/2Dlangspil.png)
+![2D](/hardware/assets/2Dlangspil.png)
 
 Start by cutting all the parts in 6 or 3mm as appropriate, we used birch laser ply. You need pieces  approximately these sizes:
   + 6mm 60x80cm
