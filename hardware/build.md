@@ -11,7 +11,7 @@ The plywood parts of the proto-langspil come together by gluing (any fast settin
 
 None of the glued parts need excessive clamping force but when assembling the largest four pieces, making up the soundbox and body of the instrument, it is good to have clamps at hand to help the pieces set square. Note that the screw slots to either end on the side pieces are differently sized, as seen here:
 
-!(/hardware/assets/build1.png)
+![](/hardware/assets/build1.png)
 
 You want the longer slots (here to the right) to correspond to the overhanging ends of the top and bottom pieces. Apply glue thinly on every surface where the parts touch.
 
