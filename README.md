@@ -6,7 +6,25 @@
 
 This is the [Intelligent Instrument Lab](http://iil.is)'s _proto-langspil_ for experimenting with intelligent systems and embedded AI.
 
+Presented at New Interfaces for Musical Expression (NIME) 2022.
+
 ![proto-langspil](https://assets.pubpub.org/b8ci3mep/51643054069968.jpg)
+
+## Paper
+
+[The Proto-Langspil: Launching an Icelandic NIME Research Lab with the Help of a Marginalised Instrument](https://nime.pubpub.org/pub/langspil/release/1)
+
+```
+@inproceedings{Armitage2022Proto,
+	author = {Armitage, Jack and Magnusson, Thor and Shepardson, Victor and Ulfarsson, Halldor},
+	booktitle = {NIME 2022},
+	year = {2022},
+	month = {jun 16},
+	note = {https://nime.pubpub.org/pub/langspil},
+	organization = {},
+	title = {The {Proto}-{Langspil}: Launching an {Icelandic} {NIME} {Research} {Lab} with the {Help} of a {Marginalised} {Instrument}},
+}
+```
 
 ## `hardware/`
 
