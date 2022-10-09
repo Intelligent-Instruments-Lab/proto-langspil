@@ -65,5 +65,5 @@
     // amps.poll(5, \amp);
     // onsets.poll(5, \onsets);
 
-    Out.ar(~output_bus, [mix, 0-mix]);
-}).play.run(false);
+    ~output.(mix);
+}).play;

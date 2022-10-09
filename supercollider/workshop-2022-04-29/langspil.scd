@@ -1,9 +1,9 @@
 (
 n = 0;
 
-this.executeFile("thor.scd");
-this.executeFile("eydis.scd");
-this.executeFile("victor.scd");
+this.executeFile("thor.scd"); ~thor.run(false);
+this.executeFile("eydis.scd"); ~eydis.run(false);
+this.executeFile("victor.scd"); ~victor.run(false);
 
 ~synths = [~thor, ~eydis, ~victor];
 	

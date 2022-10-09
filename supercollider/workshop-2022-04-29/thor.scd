@@ -18,4 +18,4 @@
     
     ~output.(signal);
 
-}).play.run(false);
+}).play;

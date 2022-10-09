@@ -15,7 +15,7 @@
 
     // leave this alone -- this is gain from the pedal
     var gain = AnalogIn.kr(0)*4.096/3.3 * drive;
-    // leave this alone -- sound i nfrom the pickups
+    // leave this alone -- sound in from the pickups
     // this makes an array of 3 signals
     var pups = SoundIn.ar(~pup_buses);
 
@@ -36,7 +36,6 @@
     var mix = gain * HPF.ar(filt, high_pass);
 
     mix = mix + CombC.ar(mix, 10, delay_time, decay_time);
-
 
     // leave this alone -- sends "mix" to the output and though a limiter
     mix = Limiter.ar(mix, limit, 0.001);
